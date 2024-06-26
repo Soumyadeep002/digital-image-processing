@@ -1,0 +1,27 @@
+List of experiment should be included in your lab copy
+
+Write a Python code to read and write a color/gray image.
+
+Write a Python code for bit plane slicing of an image.
+
+Write a Python code for intensity level slicing of an image.
+
+Write a Python code for contrast stretching of an image.
+
+Write a Python code to generate a negative image from a gray image.
+
+Write a Python code to represent the histogram of an image.
+
+Write a Python code for histogram equalization of an image.
+
+Write a Python code to perform the Histogram matching of an image with respect to a reference image.
+
+Write a Python code for implementing Log transformation of an image.
+
+Write a Python code for power law transformation of an image.
+
+Write a Python code for identify the edge of an image using Sobel operator.
+
+Write a Python code for identify edge of an image using Canny Edge Detector.
+
+Write a Python code for identify edge of an image using Roberts Edge Detection Operator.
